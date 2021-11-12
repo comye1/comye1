@@ -5,6 +5,7 @@ Hi there 👋
 I'm **Yewon**. <br>
 I’m really into ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white), including **JETPACK**, **COMPOSE**, **AAC**, **MVVM** and ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
+- Department of Computer Science and Engineering, Seoul National University of Science and Technology (SeoulTech) (2018.3 ~)
 - [GDSC Seoultech](https://gdsc-seoultech.github.io/) **Android** Core Member (2021.8 ~)
   -  Project [repository](https://github.com/gdsc-seoultech/CheggPrep_Clone) 
 - [comye1's blog](https://blog.naver.com/comye1)
