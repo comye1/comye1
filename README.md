@@ -1,18 +1,16 @@
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=comye1's%20profile&fontSize=77)
+## Hi there 👋 I'm **Yewon**. <br>
 
-Hi there 👋 I'm **Yewon**. <br>
+### - Into ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white), including **JETPACK**, **COMPOSE**, **AAC**, **MVVM** and ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-- Working on ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white), including **JETPACK**, **COMPOSE**, **AAC**, **MVVM** and ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+### - Majoring in Computer Engineering, Seoul National University of Science and Technology (SeoulTech) (2018.3 ~)
 
-- Computer Engineering, Seoul National University of Science and Technology (SeoulTech) (2018.3 ~)
+### - [GDSC Seoultech](https://gdsc-seoultech.github.io/) **Android** Core Member (2021.8 ~)
+  - Project [repository](https://github.com/gdsc-seoultech/CheggPrep_Clone) 
 
-- [GDSC Seoultech](https://gdsc-seoultech.github.io/) **Android** Core Member (2021.8 ~)
-  -  Project [repository](https://github.com/gdsc-seoultech/CheggPrep_Clone) 
+### - [comye1's blog](https://blog.naver.com/comye1)
 
-- [comye1's blog](https://blog.naver.com/comye1)
-
-- devyewon@gmail.com
+### - devyewon@gmail.com
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comye1&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comye1)](https://github.com/anuraghazra/github-readme-stats)
