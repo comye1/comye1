@@ -3,10 +3,14 @@
 
 - ### I'm into ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white), including _**JETPACK**, **COMPOSE**, **AAC**, **MVVM**_ and ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-- ### Majoring in _Computer Engineering_ at Seoul National University of Science and Technology (SeoulTech) (2018.3 ~)
+- ### Majored in _Computer Engineering_ at Seoul National University of Science and Technology (SeoulTech) (2018.3 ~)
 
-- ### [GDSC Seoultech](https://gdsc-seoultech.github.io/) _**Android**_ Core Member (2021.8 ~)
+- ### [GDSC Seoultech](https://gdsc-seoultech.github.io/) _**Android**_ Core Member (2021.8 ~ 2022.5)
   - Project [repository](https://github.com/gdsc-seoultech/CheggPrep_Clone) 
+
+- ### 2022 Google Solution Challenge Top 50
+    ![image](https://user-images.githubusercontent.com/50735594/174081329-4863a754-f8e2-4360-b680-aa558f7c3704.png)
+
 
 - ### [comye1's blog](https://blog.naver.com/comye1)
 
