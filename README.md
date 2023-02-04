@@ -12,8 +12,6 @@
     ![image](https://user-images.githubusercontent.com/50735594/174081329-4863a754-f8e2-4360-b680-aa558f7c3704.png)
 
 
-- ### [comye1's blog](https://blog.naver.com/comye1)
-
 - ### devyewon@gmail.com
 
 
